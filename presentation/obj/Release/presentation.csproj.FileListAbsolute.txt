@@ -1,0 +1,9 @@
+G:\Projects\Procon26\presentation\presentation\bin\Release\presentation.exe.config
+G:\Projects\Procon26\presentation\presentation\bin\Release\presentation.exe
+G:\Projects\Procon26\presentation\presentation\bin\Release\presentation.pdb
+G:\Projects\Procon26\presentation\presentation\obj\Release\presentation.csprojResolveAssemblyReference.cache
+G:\Projects\Procon26\presentation\presentation\obj\Release\presentation.PresenForm.resources
+G:\Projects\Procon26\presentation\presentation\obj\Release\presentation.Properties.Resources.resources
+G:\Projects\Procon26\presentation\presentation\obj\Release\presentation.csproj.GenerateResource.Cache
+G:\Projects\Procon26\presentation\presentation\obj\Release\presentation.exe
+G:\Projects\Procon26\presentation\presentation\obj\Release\presentation.pdb
